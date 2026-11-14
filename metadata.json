@@ -1,0 +1,6 @@
+{
+  "name": "مغامرات عالم العلوم الصغير",
+  "description": "لعبة أنشطة تعليمية تفاعلية للأطفال من عمر 6 إلى 8 سنوات مقتبسة من كتاب مغامرات عالم العلوم مع الروبوت نونو ونظام المراحل والأقفال والشهادة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
